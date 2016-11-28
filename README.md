@@ -1,7 +1,7 @@
 translation
 =====
 
-An OTP library
+Get English word translation from dict.cn
 
 Build
 -----
